@@ -53,7 +53,7 @@ Measures
 Metrics
 -------
 * If M1 is 0, this safeguard receives a failing score. The other metrics don't apply.
-* If M9 is greater than 12 months, this safeguard is scored at zero and receives a failing score. The other metrics don't apply.
+* If M8 is greater than 12 months, this safeguard is scored at zero and receives a failing score. The other metrics don't apply.
 
 Completeness of sensitive data inventory
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
